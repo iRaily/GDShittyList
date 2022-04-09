@@ -73,7 +73,7 @@ export default {
                     <ul class="editors">
                         <li>
                             <img src="/assets/crown.svg" alt="Owner">
-                            <p>IRaily</p>
+                            <p>iRaily</p>
                         </li>
                         <li>
                             <img src="/assets/user-gear.svg" alt="Helper">
